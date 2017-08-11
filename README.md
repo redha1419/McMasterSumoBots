@@ -5,10 +5,10 @@ Hardware specs:
 
 -2 motors mounted in the rear , on tracks
 -2 sonar sensors mounted in the front, (left and right)
--4 QTI sesnors or QRDS (doesnt matter) mounted on each corner of the robot (square pattern)
--actually body doesnt matter
+-4 QTI sensors or QRDS (doesn't matter) mounted on each corner of the robot (square pattern)
+-actually body doesn't matter
 
 
-Making the code workw ith your own bot?
+Making the code work with your own bot?
 
-All you need to do is make sure that the proper pins are hooked up to your arduino, please refer to the top of the code, "Best_Code_Ever.ino"
+All you need to do is make sure that the proper pins are hooked up to your Arduino, please refer to the top of the code, "Best_Code_Ever.ino"
