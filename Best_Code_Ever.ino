@@ -34,6 +34,7 @@ int pinBR = A1;
 int pinBL = A2;
 
 //Ernest made us do it , and thank god lol
+//these variables are for the single IR sensor
 int i;
 int val;
 int redpin=A0;
