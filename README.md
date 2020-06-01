@@ -12,4 +12,4 @@ Hardware specs:
 
 Making the code work with your own bot?
 
-All you need to do is make sure that the proper pins are hooked up to your Arduino, please refer to the top of the code, "Best_Code_Ever.ino"
+All you need to do is make sure that the proper pins are hooked up to your Arduino, please refer to the top of the code, "timmy.ino"
